@@ -1,6 +1,6 @@
 # RAG-based tool to query the ML Engineeering Open Book
 
-The [ML Engineering Open Book](https://github.com/stas00/ml-engineering) by [Stas Beckman](https://twitter.com/StasBekman) is quite informative and I often tend to refer to it for a quick lookup. I decided to build a quick RAG-based tool to query the repository to find answers to my questions.
+The [ML Engineering Open Book](https://github.com/stas00/ml-engineering) by [Stas Bekman](https://twitter.com/StasBekman) is quite informative and I often tend to refer to it for a quick lookup. I decided to build a quick RAG-based tool to query the repository to find answers to my questions.
 
 Refer steps below to try it out -
 
