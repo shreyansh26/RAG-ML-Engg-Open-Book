@@ -1,0 +1,3 @@
+chromadb==0.4.24
+langchain==0.1.14
+unstructured[md]
